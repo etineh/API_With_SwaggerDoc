@@ -6,9 +6,12 @@ Swagger API Documention gives full explanation and guide on how to use the API.
 To get started running the code on your system locally -
 
 tools required (to download)
+
 mongo compass(offline) or mongo could (online)
+
 node (version recommended)
-postmas to test the api (optional). You can use swagger documentation link to test it too.
+
+postman to test the api (optional). You can use swagger documentation link to test it too.
 
 open the project on your editor (preferrably VS Code)
 cd to server (the file name)
