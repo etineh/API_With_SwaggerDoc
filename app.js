@@ -209,7 +209,7 @@ app.get('/logout', main.logout)
  *                      description: this is user date of birth
  *                      example: 2001/02/23
  */
-
-app.listen('5000', ()=>{
-    console.log("listening on port 5000")
+const port = process.env.PORT || "5000"
+app.listen(port, ()=>{
+    console.log(`I am running on ${port}`)
 })
