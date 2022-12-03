@@ -1,4 +1,4 @@
-# API_With_SwaggerDoc
+# API_With_SwaggerDoc (register, login, verification and authentication profile, user profile edit and more)
 API built with express. The api has endpoint for user registeration, user login, user authentication profile page, logout and more.
 Password is hash with passport.js.
 
